@@ -9,7 +9,6 @@ The project is designed to demonstrate **core Apache Spark concepts** such as:
 - DAG execution
 - Transformations vs Actions
 - Aggregations and grouping
-- Performance optimizations using caching
 
 ---
 
